@@ -49,8 +49,8 @@ python_learning_journey
 | Module | Status |
 |---------|:------:|
 | Basics | ✅ Completed |
-| Functions | 🚧 In Progress |
-| Data Structures | ⏳ Planned |
+| Functions | ✅ Completed |
+| Data Structures | 🚧 In Progress |
 | Modules & Packages | ⏳ Planned |
 | File Handling | ⏳ Planned |
 | Exception Handling | ⏳ Planned |
