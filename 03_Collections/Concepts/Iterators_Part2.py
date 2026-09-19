@@ -63,10 +63,7 @@ print(list(result))
 operating_systems = ["Windows", "Linux"]
 processors = ["Intel", "AMD"]
 
-configurations = itertools.product(
-    operating_systems,
-    processors
-)
+configurations = itertools.product(operating_systems, processors)
 
 for configuration in configurations:
     print(configuration)
